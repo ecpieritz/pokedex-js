@@ -2,9 +2,7 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "x" width = "702" height = "auto">
-  <img src = "x" width = "351" height = "auto">
-  <img src = "x" width = "351" height = "auto">
+  <img src = "https://raw.githubusercontent.com/ecpieritz/pokedex-js/efacaa2d103398f024d72ca4c0554636e539872e/assets/img/print.jpg" width = "702" height = "auto">
 </p>
 
 ## 📖 About
